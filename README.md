@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 CS Notes
 
 A collection of well-structured Jupyter notebooks covering foundational and advanced topics in computer science. These notes are written for learning, revision, and sharing — with a focus on clarity, code-driven explanation, and real-world relevance.
@@ -36,3 +37,28 @@ All notes are written as Jupyter notebooks (`.ipynb`) to combine markdown explan
    ```bash
    git clone https://github.com/hbadland/cs-notes.git
    cd cs-notes
+=======
+# 🧠 CS Notes & Projects
+
+These are my computer science notes, written in Jupyter Notebooks and organized by topic. These notes aim to explain concepts clearly, demonstrate applications through code, and are accompanied by links to the best external resources I’ve encountered. These notes were written alongside my BSc Chemistry degree.
+
+> **👨‍🔬 Goal**: Build a strong theoretical and practical foundation in CS to support interdisciplinary work in computational chemistry, AI, and beyond.
+
+---
+
+## 📚 Table of Contents
+
+| Section | Description                                                                  | Notebook | Resources |
+|---------|------------------------------------------------------------------------------|----------|-----------|
+| **1. Data Structures** | Lists, heaps and hashes.                                                     | [View Notes](notebooks/algorithms/algorithms.ipynb) | [YouTube](https://www.youtube.com/watch?v=F8AbOfQwl1c&list=PL9xmBV_5YoZO2D89q42-y8voxIJKpB4oR) \| [Paper](#) |
+| **2. Python for CS** | Core language features, OOP, functional programming, decorators, generators. | [View Notes](notebooks/python/python_cs.ipynb) | [Docs](https://docs.python.org/3/) |
+| **3. Machine Learning** | Intro to supervised/unsupervised learning, scikit-learn, evaluation metrics. | [View Notes](notebooks/ml/ml_intro.ipynb) | [Video](#) \| [Blog](#) |
+| **4. Deep Learning** | Basics of neural nets, backpropagation, PyTorch, CNNs.                       | [View Notes](notebooks/dl/deep_learning.ipynb) | [Course](https://course.fast.ai/) |
+| **5. Computer Vision** | Image processing, OpenCV, filters, object detection basics.                  | [View Notes](notebooks/vision/computer_vision.ipynb) | [YouTube](#) \| [OpenCV Docs](https://docs.opencv.org/) |
+| **6. Git & GitHub** | Version control, branching, collaboration workflows.                         | [View Notes](notebooks/tools/git_github.ipynb) | [Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) |
+| **7. Computational Thinking** | Problem-solving strategies, abstraction, algorithmic thinking.               | [View Notes](notebooks/thinking/comp_think.ipynb) | [Paper](#) |
+
+---
+
+## 🗃️ Structure
+>>>>>>> 4acde8a (Added algorithms)
