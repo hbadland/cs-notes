@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # 🧠 CS Notes
 
-A collection of well-structured Jupyter notebooks covering foundational and advanced topics in computer science. These notes are written for learning, revision, and sharing — with a focus on clarity, code-driven explanation, and real-world relevance.
+A collection of notebooks covering foundational and advanced topics in computer science. These notes are written for my own learning and revision, focussing on clarity and practical relevance.
 
 ---
 
@@ -40,9 +39,9 @@ All notes are written as Jupyter notebooks (`.ipynb`) to combine markdown explan
 =======
 # 🧠 CS Notes & Projects
 
-These are my computer science notes, written in Jupyter Notebooks and organized by topic. These notes aim to explain concepts clearly, demonstrate applications through code, and are accompanied by links to the best external resources I’ve encountered. These notes were written alongside my BSc Chemistry degree.
+These notes were written alongside my BSc Chemistry degree to support my project and further expand my knowledge of this field.
 
-> **👨‍🔬 Goal**: Build a strong theoretical and practical foundation in CS to support interdisciplinary work in computational chemistry, AI, and beyond.
+> **👨‍🔬 Goal**: Build a strong theoretical and practical foundation in CS to support interdisciplinary work in computational chemistry and AI.
 
 ---
 
